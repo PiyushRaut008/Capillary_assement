@@ -70,6 +70,6 @@ retriever = Retriever("docs_content.json")
 ```bash
 streamlit run app.py
 ```
-- Open browser: [http://localhost:8501](http://localhost:8501)
 - Ask questions about the Capillary documentation.
+
 
